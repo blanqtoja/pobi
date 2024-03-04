@@ -1,0 +1,5 @@
+#ignorowanie katolaogu build
+/kazmierczak/inctroduction/build
+
+#wszystkie katalogi cmake-bulid-debug
+cmake-build-debug
